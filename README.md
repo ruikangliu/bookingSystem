@@ -373,6 +373,7 @@ def query_flights(self, id, verbose=False, output_resvNum=False):
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210428204029858.png#pic_center)
   - 此时再查看航班预约情况，发现 `11714` 航班的预约已被删除
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210428204107201.png?,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjQzNzExNA==,size_16,color_FFFFFF,t_70#pic_center)
-
+## 参考项目
+- [TourBookingSystem](https://github.com/izcat/TourBookingSystem)
 
 
